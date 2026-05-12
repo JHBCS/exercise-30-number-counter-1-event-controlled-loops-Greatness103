@@ -27,7 +27,12 @@
   
 	//add loop here
 
+while (input != 0){
+  
+  	System.out.print("Enter a number (0 to stop): ");
+  	input = in.nextInt();
 
+}
 
 	
  	 									
